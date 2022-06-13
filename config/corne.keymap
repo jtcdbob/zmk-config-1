@@ -9,6 +9,8 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/rgb.h>
 
+// Keycode reference: https://zmk.dev/docs/codes
+
 / {
         keymap {
                 compatible = "zmk,keymap";
